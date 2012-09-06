@@ -1,0 +1,72 @@
+body{
+		margin:5px;
+		padding:0px;
+	}
+	#logo{
+		background-color:#f90;
+		background-image:url(http://enigma.hiof.no/images/misc/vbulletin4_logo.png);
+		background-repeat:no-repeat;
+		background-position:left top;
+		height:50px;
+		width:100%;
+		margin-bottom:2px;
+	}
+	h1{
+		font-family:calibri;
+		font-size: 24pt;
+		color:#fff;
+		margin-left:150px;
+		width:400px;
+		line-height:37px;
+		display:block;
+	}
+	#clock{
+		font-size:20pt;
+		color:#fff;
+		line-height:37px;
+		margin:0px 20px 0px 0px;
+		text-align:right;
+		font-family:calibri;
+	}
+	div.headline{
+		width: 500px;
+	}
+	table tr{
+		vertical-align:top;
+	}
+	table.news{
+		border-collapse:collapse;
+		font-family:calibri;
+		width:100%;
+	}
+	table.news th{
+		background-color:#f90;
+		color:#fff;
+		text-align:left;
+		font-size: 14pt;
+	}
+	table.news td span{
+		font-size: 12pt;
+	}
+	table.news td span.det{
+		font-size: 8pt;
+		color:#999;
+	}
+	table.news tr.odd td{
+		background-color:#c8c8c8;
+	}
+	table.news tr.even td{
+		background-color:#d8d8d8;
+	}
+	.startHidden{
+		display:none;
+	}
+	.last_headline{
+		font-size:12pt;
+		font-family:calibri;
+	}
+	ul{
+		border:1px solid #ccc;
+		margin:0px;
+		padding:15px 10px 5px 30px;
+	}
