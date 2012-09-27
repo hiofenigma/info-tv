@@ -1,6 +1,8 @@
+<!DOCTYPE HTML>
 <html>
 <head>
-	<meta http-equiv="refresh" content="1800" >
+    <meta http-equiv="refresh" content="1800" />
+    <meta charset="UTF-8" /> 
 	<script src='jquery-1.8.0.min.js'></script> 
 	<script>
 		$(document).ready(function(){
@@ -75,7 +77,7 @@
 <?php
 
 header('Content-type: text/html; charset=utf-8');
-//echo "hello..";
+//echo "hello.."; 
 
 ?>
 </body>
